@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Doctor Octopus",
+    "price": 5.900,
+    "stock": 12,
+    "pictureUrl": "https://d22fxaf9t8d39k.cloudfront.net/69def8fd8f3f7f8660c39e9f50e58203fe3ccfcab0d545805c134457657c18fa100951.png",
+    "category": "Marvel"
+  },
+  {
+    "id": 2,
+    "title": "Avengers Hulk",
+    "price": 6.700,
+    "stock": 17,
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_637619-MLA43296017066_082020-O.webp",
+    "category": "Marvel"
+  },
+  {
+    "id": 3,
+    "title": "Ironman",
+    "price": 8.200,
+    "stock": 14,
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_912003-MLA48115741967_112021-O.jpg",
+    "category": "Marvel"
+  },
+  {
+    "id": 4,
+    "title": "Spiderman",
+    "price": 5.100,
+    "stock": 7,
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_980765-CBT44410342399_122020-O.jpg",
+    "category": "Marvel"
+  },
+  {
+    "id": 5,
+    "title": "Avengers Thanos",
+    "price": 9.700,
+    "stock": 23,
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_961630-MLC44093853039_112020-O.jpg",
+    "category": "Marvel"
+  },
+  {
+    "id": 6,
+    "title": "The Batman",
+    "price": 6.600,
+    "stock": 11,
+    "pictureUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/841/670/products/batman-11891-363475bc21a6e065f916492025342538-1024-1024.jpg",
+    "category": "dc"
+  },
+  {
+    "id": 7,
+    "title": "Superman",
+    "price": 7.500,
+    "stock": 13,
+    "pictureUrl": "https://m.media-amazon.com/images/I/712OfEWmfqL._AC_SL1500_.jpg",
+    "category": "dc"
+  },
+  {
+    "id": 8,
+    "title": "The Joker",
+    "price": 9.900,
+    "stock": 19,
+    "pictureUrl": "http://cdn.shopify.com/s/files/1/0057/8630/4600/products/12360113-5914758765249072_1200x1200.jpg?v=1608433198",
+    "category": "dc"
+  },
+  {
+    "id": 9,
+    "title": "The Flash",
+    "price": 6.800,
+    "stock": 9,
+    "pictureUrl": "https://m.media-amazon.com/images/I/71Q1S691DGL._AC_SL1500_.jpg",
+    "category": "dc"
+  },
+  {
+    "id": 10,
+    "title": "Harley Quinn",
+    "price": 8.900,
+    "stock": 14,
+    "pictureUrl": "https://m.media-amazon.com/images/I/71728H0k7FL._AC_SL1394_.jpg",
+    "category": "dc"
+  },
+  {
+    "id": 11,
+    "title": "Demogorgon",
+    "price": 5.500,
+    "stock": 17,
+    "pictureUrl": "https://cdn.princessdressworld.com/media/-/catalog/product/cache/6/image/650x/040ec09b1e35df139433887a97daa66f/i/m/image_t-funko-demo428_2_.jpg?sig=133b676cfc457d39435d3498911958e3&p=dz02NTAmcmE9MCZycz0xJndzPSZ3cD1zdHJldGNoJndvPSZwPTEwODgxJnE9OTAmY289MSZhcj0xJmtmPTA=",
+    "category": "stranger"
+  },
+  {
+    "id": 12,
+    "title": "Billy",
+    "price": 8.700,
+    "stock": 9,
+    "pictureUrl": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/384/781/products/d_nq_np_805517-mla43990313684_112020-o1-f496ee154de881d53216297636722438-640-0.jpg",
+    "category": "stranger"
+  },
+  {
+    "id": 13,
+    "title": "Eleven",
+    "price": 9.200,
+    "stock": 4,
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_896262-MLA32895869334_112019-O.jpg",
+    "category": "stranger"
+  },
+  {
+    "id": 14,
+    "title": "Will",
+    "price": 7.300,
+    "stock": 9,
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_858186-MLA50296041916_062022-V.jpg",
+    "category": "stranger"
+  },
+  {
+    "id": 15,
+    "title": "Mike",
+    "price": 6.200,
+    "stock": 6,
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_933239-MLA32732631646_112019-O.jpg",
+    "category": "stranger"
+  }
+]
